@@ -5,7 +5,7 @@ This is my porfolio website!
 #Table of contents
 - [TableOfContent](#design)
 
-![Dashboard-Mockup](assets/images/Assets_ImageTest.png)
+![Dashboard-Mockup](assets/images/Assets_ImageTest.PNG)
 
 #design
 
